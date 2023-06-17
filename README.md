@@ -26,9 +26,8 @@
   - [Dashboard](#dashboard)
   - [License](#license)
 
-
 ## Overview
-This Power BI dashboard project provides a comprehensive sales analysis for an e-commerce platform in Brazil named Olist. The dashboard covers key metrics, monthly sales details, order status insights, and category-specific information. The project utilizes data from various datasets related to Olist's customers, orders, payments, geolocation, products, sellers, and reviews.
+This project provides comprehensive insights into various aspects of Olist's operations. The findings can guide strategic decisions to enhance customer retention, optimize product categories, and improve overall profitability. The SQL queries used in this project cover a wide range of analytical scenarios, showcasing the versatility of SQL in extracting meaningful insights from a relational database.
 
 
 ## Data source
@@ -39,9 +38,6 @@ This Power BI dashboard project provides a comprehensive sales analysis for an e
 ## Project Overview
 
 This project focuses on data preparation, analysis, and exploration of the Olist dataset using SQL queries. Olist is a Brazilian e-commerce platform, and the analysis covers various aspects, including data cleaning, updating, and exploring business insights.
-
-
-<!-- This project provides comprehensive insights into various aspects of Olist's operations. The findings can guide strategic decisions to enhance customer retention, optimize product categories, and improve overall profitability. The SQL queries used in this project cover a wide range of analytical scenarios, showcasing the versatility of SQL in extracting meaningful insights from a relational database. -->
 
 ### Data Preparation
 
@@ -104,6 +100,9 @@ The data analysis section aims to answer several business questions related to O
 
 
 ## Dashboard
+
+## Dashboard Overview
+This Power BI dashboard project provides a comprehensive sales analysis for an e-commerce platform in Brazil named Olist. The dashboard covers key metrics, monthly sales details, order status insights, and category-specific information. The project utilizes data from various datasets related to Olist's customers, orders, payments, geolocation, products, sellers, and reviews.
 
 ### 1. Total Sales Overview
 
