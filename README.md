@@ -1,6 +1,6 @@
 # Olist Power BI Sales Dashboard
 
-![banner](/assets/Beige%20Black%20Modern%20Photo%20Collage%20Summer%20New%20Collection%20Banner.png)
+![banner](/img/dataset-cover.png)
 
 
 ## Authors
@@ -22,7 +22,7 @@
   <!-- - [App deployed on Streamlit](#app-deployed-on-streamlit) -->
   <!-- - [Repository structure](#repository-structure) -->
   <!-- - [Contribution](#contribution) -->
-   - [Dashboard](#dashboard)
+  - [Dashboard](#dashboard)
   - [License](#license)
 
 
@@ -49,10 +49,10 @@ This Power BI dashboard project provides a comprehensive sales analysis for an e
 ### 1. Total Sales Overview
 
 <p align="center">
-  <img src="/assets/shot1.gif" alt="shot1" width="800">
+  <img src="/img/shot1.gif" alt="shot1" width="800">
 </p>
 <p align="center">
-  <img src="/assets/shot2.gif" alt="shot2" width="800">
+  <img src="/img/shot2.gif" alt="shot2" width="800">
 </p>
 
 - Total Sales
@@ -64,7 +64,7 @@ This Power BI dashboard project provides a comprehensive sales analysis for an e
 ### 2. Monthly Sales Details
 
 <p align="center">
-  <img src="/assets/shot3.gif" alt="shot3" width="800">
+  <img src="/img/shot3.gif" alt="shot3" width="800">
 </p>
 
 - Top 3 Months
@@ -74,7 +74,7 @@ This Power BI dashboard project provides a comprehensive sales analysis for an e
 ### 3. Order Status Insights
 
 <p align="center">
-  <img src="/assets/shot4.gif" alt="shot4" width="800">
+  <img src="/img/shot4.gif" alt="shot4" width="800">
 </p>
 
 - Lowest 10 Status
@@ -84,7 +84,7 @@ This Power BI dashboard project provides a comprehensive sales analysis for an e
 ### 4. Categories and Top 10 Products
 
 <p align="center">
-  <img src="/assets/shot5.gif" alt="shot5" width="800">
+  <img src="/img/shot5.gif" alt="shot5" width="800">
 </p>
 
 - Top 10 Products
