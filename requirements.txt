@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Power BI Python Script Dependencies
+pandas==1.3.3
+numpy==1.21.2
+matplotlib==3.4.3
+seaborn==0.11.2
+
+# Additional Dependencies (Add as needed)
+requests==2.26.0
