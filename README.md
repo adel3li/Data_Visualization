@@ -6,7 +6,7 @@ This Power BI dashboard project provides a comprehensive sales analysis for an e
 ## Screenshots
 
 ### 1. Total Sales Overview
-![Total Sales Overview]('Screenshot 1.png')
+![Total Sales Overview](Screenshot1.png)
 - Total Sales
 - Total Payments
 - Monthly Sales
@@ -14,19 +14,19 @@ This Power BI dashboard project provides a comprehensive sales analysis for an e
 - Top 5 States
 
 ### 2. Monthly Sales Details
-![Monthly Sales Details]('Screenshot 2.png')
+![Monthly Sales Details](Screenshot2.png)
 - Top 3 Months
 - Lowest 3 Months
 - Top 10 Categories
 
 ### 3. Order Status Insights
-![Order Status Insights]('Screenshot 3.png')
+![Order Status Insights](Screenshot3.png)
 - Lowest 10 Status
 - Top 5 Cities
 - Top 5 Status
 
 ### 4. Categories and Top 10 Products
-![Categories and Top 10 Products]('Screenshot 4.png')
+![Categories and Top 10 Products](Screenshot4.png)
 - Top 10 Products
 - Category-wise Analysis
 
