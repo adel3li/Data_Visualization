@@ -47,4 +47,4 @@ This Power BI dashboard project provides a comprehensive sales analysis for an e
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/olist-power-bi-dashboard.git
+   git clone https://github.com/adel3li/Olist-Dashboard.git
