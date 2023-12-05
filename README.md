@@ -8,8 +8,14 @@ This Power BI dashboard project provides a comprehensive sales analysis for an e
 ## Screenshots
 
 ### 1. Total Sales Overview
-![Total Sales Overview](/assets/shot1.gif)
-![Total Sales Overview](/assets/shot2.gif)
+
+<p align="center">
+  <img src="/assets/shot1.gif" alt="shot1" width="800">
+</p>
+<p align="center">
+  <img src="/assets/shot2.gif" alt="shot2" width="800">
+</p>
+
 - Total Sales
 - Total Payments
 - Monthly Sales
@@ -17,22 +23,31 @@ This Power BI dashboard project provides a comprehensive sales analysis for an e
 - Top 5 States
 
 ### 2. Monthly Sales Details
-![Monthly Sales Details](/assets/shot3.gif)
+
 <p align="center">
   <img src="/assets/shot3.gif" alt="shot3" width="800">
 </p>
+
 - Top 3 Months
 - Lowest 3 Months
 - Top 10 Categories
 
 ### 3. Order Status Insights
-![Order Status Insights](/assets/shot4.gif)
+
+<p align="center">
+  <img src="/assets/shot4.gif" alt="shot4" width="800">
+</p>
+
 - Lowest 10 Status
 - Top 5 Cities
 - Top 5 Status
 
 ### 4. Categories and Top 10 Products
-![Categories and Top 10 Products](/assets/shot5.gif)
+
+<p align="center">
+  <img src="/assets/shot5.gif" alt="shot5" width="800">
+</p>
+
 - Top 10 Products
 - Category-wise Analysis
 
