@@ -18,6 +18,9 @@ This Power BI dashboard project provides a comprehensive sales analysis for an e
 
 ### 2. Monthly Sales Details
 ![Monthly Sales Details](/assets/shot3.gif)
+<p align="center">
+  <img src="/assets/shot3.gif" alt="shot3" width="800">
+</p>
 - Top 3 Months
 - Lowest 3 Months
 - Top 10 Categories
