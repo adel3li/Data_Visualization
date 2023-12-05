@@ -1,5 +1,7 @@
 # Olist Power BI Sales Dashboard
 
+![banner](/assets/Untitled%20design%20(15).png)
+
 ## Overview
 This Power BI dashboard project provides a comprehensive sales analysis for an e-commerce platform in Brazil named Olist. The dashboard covers key metrics, monthly sales details, order status insights, and category-specific information. The project utilizes data from various datasets related to Olist's customers, orders, payments, geolocation, products, sellers, and reviews.
 
