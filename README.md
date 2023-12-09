@@ -44,7 +44,7 @@ This Power BI dashboard project provides a comprehensive sales analysis for an e
 - **product_category_name_translation.csv**: Dataset with translations for product category names.
 
 
-## Screenshots
+## Dashboard
 
 ### 1. Total Sales Overview
 
