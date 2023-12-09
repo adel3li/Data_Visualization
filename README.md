@@ -5,7 +5,7 @@
 
 ## Authors
 
-- [@adel3li](https://www.github.com/semasuka)
+- [@adel3li](https://www.github.com/adel3li)
 
 ## Table of Contents
 
